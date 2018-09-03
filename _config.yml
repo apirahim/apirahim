@@ -1,3 +1,3 @@
-theme: jekyll-theme-cayman
+theme: default
 extra_js:
   - //cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/prism-abap.js
